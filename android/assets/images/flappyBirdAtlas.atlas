@@ -1,0 +1,132 @@
+
+flappyBirdAtlas.png
+size: 2048,2048
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+bird
+  rotate: false
+  xy: 2, 31
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+cloud
+  rotate: false
+  xy: 2, 545
+  size: 851, 460
+  orig: 851, 460
+  offset: 0, 0
+  index: -1
+game over
+  rotate: false
+  xy: 1028, 1394
+  size: 623, 580
+  orig: 623, 580
+  offset: 0, 0
+  index: -1
+pipe 001
+  rotate: false
+  xy: 1191, 2
+  size: 223, 121
+  orig: 223, 121
+  offset: 0, 0
+  index: -1
+pipe 002
+  rotate: false
+  xy: 966, 2
+  size: 223, 221
+  orig: 223, 221
+  offset: 0, 0
+  index: -1
+pipe 003
+  rotate: false
+  xy: 966, 225
+  size: 223, 321
+  orig: 223, 321
+  offset: 0, 0
+  index: -1
+pipe 004
+  rotate: false
+  xy: 1028, 971
+  size: 223, 421
+  orig: 223, 421
+  offset: 0, 0
+  index: -1
+pipe 005
+  rotate: false
+  xy: 516, 22
+  size: 223, 521
+  orig: 223, 521
+  offset: 0, 0
+  index: -1
+pipe 006
+  rotate: false
+  xy: 1653, 1353
+  size: 223, 621
+  orig: 223, 621
+  offset: 0, 0
+  index: -1
+pipe 007
+  rotate: false
+  xy: 1253, 671
+  size: 223, 721
+  orig: 223, 721
+  offset: 0, 0
+  index: -1
+pipe 101
+  rotate: false
+  xy: 1703, 607
+  size: 223, 121
+  orig: 223, 121
+  offset: 0, 0
+  index: -1
+pipe 102
+  rotate: false
+  xy: 1191, 125
+  size: 223, 221
+  orig: 223, 221
+  offset: 0, 0
+  index: -1
+pipe 103
+  rotate: false
+  xy: 1191, 348
+  size: 223, 321
+  orig: 223, 321
+  offset: 0, 0
+  index: -1
+pipe 104
+  rotate: false
+  xy: 855, 548
+  size: 223, 421
+  orig: 223, 421
+  offset: 0, 0
+  index: -1
+pipe 105
+  rotate: false
+  xy: 741, 22
+  size: 223, 521
+  orig: 223, 521
+  offset: 0, 0
+  index: -1
+pipe 106
+  rotate: false
+  xy: 1703, 730
+  size: 223, 621
+  orig: 223, 621
+  offset: 0, 0
+  index: -1
+pipe 107
+  rotate: false
+  xy: 1478, 630
+  size: 223, 721
+  orig: 223, 721
+  offset: 0, 0
+  index: -1
+play
+  rotate: false
+  xy: 2, 1007
+  size: 1024, 967
+  orig: 1024, 967
+  offset: 0, 0
+  index: -1
